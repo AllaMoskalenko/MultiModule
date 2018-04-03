@@ -11,5 +11,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Orders" />
+    <orderEntry type="module" module-name="Buyers" />
+    <orderEntry type="module" module-name="Products" />
   </component>
 </module>

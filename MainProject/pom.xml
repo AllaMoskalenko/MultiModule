@@ -12,17 +12,17 @@
     <modules>
         <module>Orders</module>
         <module>Products</module>
-        <module>Users</module>
         <module>Employees</module>
+        <module>Buyers</module>
     </modules>
 
  <dependencies>
 
-        <dependency>
+        <!--<dependency>
             <groupId>com.allamoskalenko</groupId>
             <artifactId>Orders</artifactId>
             <version>1.0-SNAPSHOT</version>
-        </dependency>
+        </dependency>-->
         <dependency>
             <groupId>com.allamoskalenko</groupId>
             <artifactId>Employees</artifactId>

@@ -8,14 +8,10 @@
     <artifactId>Orders</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-
-
-
-
     <dependencies>
         <dependency>
             <groupId>com.allamoskalenko</groupId>
-            <artifactId>Users</artifactId>
+            <artifactId>Buyers</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
         <dependency>

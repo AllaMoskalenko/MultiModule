@@ -8,5 +8,13 @@
     <artifactId>Employees</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.allamoskalenko</groupId>
+            <artifactId>Orders</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
     
 </project>
